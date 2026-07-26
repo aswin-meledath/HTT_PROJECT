@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large datasets
+dataset_and_matrixfiles/*.txt
+dataset_and_matrixfiles/*.csv
+dataset_and_matrixfiles/*.gz
+dataset_and_matrixfiles/*.zip
+
+# Models
+*.pkl
+*.joblib
