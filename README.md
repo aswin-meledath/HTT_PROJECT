@@ -233,8 +233,11 @@ It is **not** a clinical diagnostic tool and should not be used for medical deci
 ## Authors
 
 Aswin M
+
 Farzana B R
+
 Krishnaja S
+
 Priyananda T
 
 Department of Computer Science and Engineering
